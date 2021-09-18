@@ -1,2 +1,0 @@
-- 👋 Hi, I’m Muhammad Mowafy
-- 🌱 I’m currently learning python
